@@ -31,3 +31,4 @@ YouTube tutorials were invaluable in the early stages, providing hands-on guidan
 Conclusion This real-time speech-to-text converter is a versatile tool that can be used in various fields, including research, journalism, and app development. It simplifies the process of transcribing speech into text, with the added benefit of saving raw audio files. The script’s modular design allows it to be extended with new features such as keyword detection, cloud storage integration, and even a GUI for easier use. With the help of online resources and tools like Visual Studio Code, this script offers a practical and customizable solution for voice-based transcription tasks
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/bd309ffd-50d5-4e75-bbeb-4cbd3174a855)
